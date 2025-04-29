@@ -3,5 +3,6 @@ console.log("Modificação");
 console.log("meu terceiro commit");
 console.log("meuquarto commit")
 console.log("meu quinto commit");
+console.log("no sexto commit os comandos são: git add .  git commit -m ASPAS nome do commit ASPAS git pussh -u origin main ");
 
 
